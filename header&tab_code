@@ -1,0 +1,27 @@
+# css code 
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+    padding: 1px;
+    text-align: center;
+    background: #5f966d;
+    color: white;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    border: none;
+  } 
+
+.tab {
+  float: left;
+  background-color: #476a50;
+  width: 18%;
+  height: 100vh;
+  position: fixed; 
+  color: white;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  left: 0; 
+}
